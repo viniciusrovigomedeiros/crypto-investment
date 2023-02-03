@@ -1,0 +1,112 @@
+{
+  "crypto": "Crypto",
+  "@crypto": {
+    "description": "crypto coin wallet title"
+  },
+  "userBalance": "Total balance",
+  "@userBalance": {
+    "description": "User cryptos balance in U$S"
+  },
+  "details": "Details",
+  "@details": {
+    "description": "Details appBar title"
+  },
+  "convertCrypto": "Convert crypto",
+  "@convertCrypto": {
+    "description": "Title of the button to convert cryptocurrency"
+  },
+  "currentPrice": "Current price",
+  "@currentPrice": {
+    "description": "Text for the current crypto price"
+  },
+  "priceVariation": "Variation 24H ",
+  "@priceVariation": {
+    "description": "Price variation in %"
+  },
+  "userCryptoBalance": "Balance",
+  "@userCryptoBalance": {
+    "description": "User crypto balance"
+  },
+  "userCryptoValue": "Value",
+  "@userCryptoValue": {
+    "description": "User crypto value"
+  },
+  "convert": "Convert",
+  "@convert": {
+    "description": "Convert appBar title"
+  },
+  "total": "Estimated total ",
+  "@total": {
+    "description": "Estimated convert value"
+  },
+  "convertTitle": "How much would you like to convert?",
+  "@convertTitle": {
+    "description": "convert page title"
+  },
+  "sameCoins": "Select a different currency for conversion",
+  "@sameCoins": {
+    "description": "same coin helper message"
+  },
+
+  "invalidInput": "Enter a valid value",
+  "@sameCoins": {
+    "description": "invalid input value"
+  },
+
+  "insufficientFunds": "Insufficient funds",
+  "@insufficientFunds": {
+    "description": "text for insufficient funds"
+  },
+  "totalBalance": "Total balance:",
+  "@totalBalance": {
+    "description": "user crypto balance for an specific crypto"
+  },
+  "review": "Review",
+  "@review": {
+    "description": "review appBar Title"
+  },
+  "reviewTitle": "Review your conversion data",
+  "@reviewTitle": {
+    "description": "review page Title"
+  },
+  "payWith": "Pay with",
+  "@payWith": {
+    "description": "default text for pay with"
+  },
+  "receive": "Receive",
+  "@receive": {
+    "description": "default text for receive"
+  },
+  "exchangeRate": "Exchange rate",
+  "@exchangeRate": {
+    "description": "exchange rate text"
+  },
+  "movementsAppBar": "Movements",
+  "@movementsAppBar": {
+    "description": "movements title"
+  },
+  "portfolio": "Portfolio",
+  "@portfolio": {
+    "description": "portfolio navBar title"
+  },
+  "successTitle": "Conversion completed",
+  "@sucessTitle": {
+    "description": "sucess title"
+  },
+  "movementDate": "Date",
+  "@movementDate": {
+    "description": "movement date"
+  },
+  "successSubtitle": "Your conversion was successfully completed!",
+  "@sucessSubtitle": {
+    "description": "sucess subtitle"
+  },
+  "movementAmount": "Amount",
+  "@movementAmount": {
+    "description": "amount of coin movement"
+  },
+  "movementsEmpty": "You don't have movements",
+  "@movementsEmpty": {
+    "description": "movements page has empty text"
+  }
+}
