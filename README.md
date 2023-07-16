@@ -1,16 +1,3 @@
 # crypto
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Video 2023-01-11 at 10 36 44 (1)](https://user-images.githubusercontent.com/100034600/211824143-f34764e0-06d2-4d6d-8a96-9c7eff3219d5.gif)
