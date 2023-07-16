@@ -7,3 +7,4 @@ final coinEndpointProvider = Provider(((ref) {
   final dio = Dio(BaseOptions(baseUrl: 'https://api.coingecko.com/api/v3'));
   return CoinEndpoint(dio);
 }));
+//
